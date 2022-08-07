@@ -19,3 +19,19 @@ Netify is a debugging proxy that will allow you to intercept and mutate your req
 ----
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/vladlavrik)
+
+
+
+### 二次开发
+
+部署 ？
+```bash
+npm install
+npm run build
+```
+
+不要修复一些包漏洞，即不要执行npm audit fix。
+
+
+
+
